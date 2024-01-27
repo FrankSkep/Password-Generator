@@ -23,4 +23,4 @@ La función principal `generatePassword` toma una base de caracteres y la longit
 4. **Generar Contraseña:**
    - Haz clic en el botón "Generar" para generar una contraseña según las configuraciones seleccionadas.  
 
-Hecho por [Francisco](https://github.com/FrankSkep){target="_blank"}
+Hecho por [Francisco](https://github.com/FrankSkep)
