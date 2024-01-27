@@ -1,6 +1,6 @@
 # Generador de Contraseñas
 
-Este proyecto es un generador de contraseñas simple desarrollado con HTML, CSS, y JavaScript. 
+Este es un generador de contraseñas simple desarrollado con HTML, CSS, y JavaScript.    
 La función principal `generatePassword` toma una base de caracteres y la longitud deseada de la contraseña para generar una contraseña aleatoria.
 
 <p align="center">
@@ -21,6 +21,6 @@ La función principal `generatePassword` toma una base de caracteres y la longit
      - **Símbolos:** Incluye símbolos especiales en la contraseña.
 
 4. **Generar Contraseña:**
-   - Haz clic en el botón "Generar" para generar una contraseña según las configuraciones seleccionadas.
+   - Haz clic en el botón "Generar" para generar una contraseña según las configuraciones seleccionadas.  
 
 Hecho por [Francisco](https://github.com/FrankSkep)
