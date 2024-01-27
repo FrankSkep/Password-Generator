@@ -3,7 +3,9 @@
 Este proyecto es un generador de contraseñas simple desarrollado con HTML, CSS, y JavaScript. 
 La función principal `generatePassword` toma una base de caracteres y la longitud deseada de la contraseña para generar una contraseña aleatoria.
 
-![Imagen de la interfaz](https://raw.githubusercontent.com/FrankSkep/Password-Generator/main/preview.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FrankSkep/Password-Generator/main/preview.png" alt="Imagen de la interfaz">
+</p>
 
 ## Instrucciones de Uso
 
