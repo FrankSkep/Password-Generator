@@ -1,0 +1,13 @@
+body {
+   background: #a8c0ff;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #3f2b96, #a8c0ff);
+   background: linear-gradient(to right, #3f2b96, #a8c0ff);
+}
+
+#frame {
+   border-radius: 10px;
+}
+
+.badge {
+   font-size:20px;
+}
