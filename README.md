@@ -17,9 +17,10 @@ La función principal `generatePassword` toma una base de caracteres y la longit
 
 3. **Opciones Adicionales:**
    - Puedes seleccionar las siguientes opciones adicionales:
-     - **Números:** Incluye números en la base de caracteres.
-     - **Símbolos:** Incluye símbolos especiales en la base de caracteres.
+     - **Números:** Incluye números en la contraseña.
+     - **Símbolos:** Incluye símbolos especiales en la contraseña.
 
 4. **Generar Contraseña:**
    - Haz clic en el botón "Generar" para generar una contraseña según las configuraciones seleccionadas.
 
+Hecho por [Francisco](https://github.com/FrankSkep)
